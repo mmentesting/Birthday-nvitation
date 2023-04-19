@@ -1,0 +1,41 @@
+body {
+  background-color: #F4EEE0;
+  font-family: Jura, sans-serif
+}
+h1 {
+  color: #89375F;
+}
+hr {
+  border-top: 7px dashed #6D5D6E;
+  width: 50%;
+}
+img {
+  height: 200px;
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#first_p {
+  font-weight: bold;
+  color: #86A3B8;
+}
+.center {
+  text-align: center;
+}
+.special_font {
+  font-family: "Cinzel Decorative", cursive;
+}
+.special_color {
+  color: #CE5959;
+}
+.location {
+  border: 3px solid black;
+  padding: 4px;
+}
+.orange {
+  color: #FFA559;
+}
+a:hover {
+  font-size: 1.2rem;
+}
