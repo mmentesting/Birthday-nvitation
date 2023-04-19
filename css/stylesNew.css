@@ -1,6 +1,14 @@
 body {
-  background-color: #F4EEE0;
   font-family: Jura, sans-serif
+}
+div {
+  background-color: #F4EEE0;
+  height: 60%;
+  width: 25%;
+  border: 10px solid silver;
+  padding: 20px;
+  margin-left: 35%;
+  margin-top: 5%;
 }
 h1 {
   color: #89375F;
