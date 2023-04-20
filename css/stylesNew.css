@@ -4,7 +4,7 @@ body {
 div {
   background-color: #F4EEE0;
   height: 40%;
-  width: 25%;
+  width: 30%;
   border: 10px solid silver;
   padding: 20px;
   margin-left: 35%;
@@ -45,5 +45,5 @@ img {
   color: #FFA559;
 }
 a:hover {
-  font-size: 1.2rem;
+  color: silver;
 }
